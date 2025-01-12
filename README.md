@@ -1,50 +1,44 @@
-# Welcome to your Expo app 👋
+# Event Sphere
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A real-time event discovery and RSVP platform for users to find and join local events.
 
-## Get started
+## Built With
 
-1. Install dependencies
+- React Native Expo
+- Express.js
+- Node.js
+- MongoDB
+ 
+## Getting Started
 
-   ```bash
-   npm install
-   ```
+To get a local copy up and running follow these simple example steps.
 
-2. Start the app
+Clone the repo with `https://github.com/koomekevo/event-sphere.git`
 
-   ```bash
-    npx expo start
-   ```
+Run `cd event-sphere` to access app.
 
-In the output, you'll find options to open the app in a
+Run `npm install` to install dependencies.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Run `npx expo start` to run the app on Android or iOS Device/Emulator.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Authors
 
-## Get a fresh project
+👤 **Kevin Koome**
 
-When you're ready, run:
+- GitHub: [@koomekevo](https://github.com/koomekevo)
+- Twitter: [@koomekevo](https://twitter.com/koomekevo)
+- LinkedIn: [LinkedIn](https://ke.linkedin.com/in/kevin-koome-aab84186)
 
-```bash
-npm run reset-project
-```
+## 🤝 Contributing
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Contributions, issues, and feature requests are welcome!
 
-## Learn more
+Feel free to check the [issues page](../../issues/).
 
-To learn more about developing your project with Expo, look at the following resources:
+## Show your support
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Give a ⭐️ if you like this project!
 
-## Join the community
+## 📝 License
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+This project is [MIT](./MIT.md) licensed.
